@@ -34,4 +34,9 @@ $ makewin.sh
 
 Or only run `php pq.php` in your terminal or inside a webservice by Browser/URL.
 
+## Where we can use this P and Q program?
+
+We already used this C++ program inside the Telegram web application.
+Take a look at [here](https://github.com/BaseMax/TelegramCommunicationJS).
+
 Created at 2020
